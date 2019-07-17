@@ -8,10 +8,10 @@
 ```
 /*
  Theme Name:   Twenty Seventeen Child
- Theme URI:    http://example.com/twenty-fifteen-child/
+ Theme URI:    https://github.com/anuchit33/twentyseventeen-child/
  Description:  Twenty Fifteen Child Theme
- Author:       John Doe
- Author URI:   http://example.com
+ Author:       Anuchit Yaiin
+ Author URI:   https://anuchit.com
  Template:     twentyseventeen
  Version:      1.0.0
  License:      GNU General Public License v2 or later

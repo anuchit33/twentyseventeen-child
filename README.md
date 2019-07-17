@@ -1,5 +1,6 @@
 # WordPress Child Themes
 ขั้นตอนสร้าง WordPress Child Themes
+-> https://developer.wordpress.org/themes/advanced-topics/child-themes/
 
 ### 1. Create a child theme folder
 สร้างโพเดอร์ wp-content/themes/`twentyseventeen-child`
